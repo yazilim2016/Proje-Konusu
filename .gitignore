@@ -1,3 +1,9 @@
 Proje konusu olarak araç kiralama otomasyonu grup olarak düşünülmüştür.
 Sistemde bir araç kiralama şirketinin yapabileceği işler bu program ile tutulacaktır.
 araç ekleme veya çıkarma sistemde olacaktır.
+
+Proje konusu olarak araç kiralama otomasyonu gerçeklestirmeye grup olarak karar verilmiştir.
+
+Sistemde, bir araç kiralama şirketinin yapabileceği tüm işlemlerin bu PC yazılımı aracılığı ile takip edilmesi gerçeklenecektir.
+
+Bu bağlamda kiralanacak olan araçların bilgi havuzu, (marka, model, motor gücü, kasa tipi, km bilgisi...vb.) araclarin fenni muayene ve vergi durumları, günlük kira bedelleri, araç sınıflarına göre ( B, C, D, SUV...) gunluk ve saatlik gecikme bedelleri, kiralayan bilgileri vb tüm verilerin tutulduğu ve takip edildiği bir PC otomasyonunun gerçeklenmesi amaçlanmıstır.
